@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Branding &#8211; Noreta Agus Sasono</title>
+	<atom:link href="/works/category/branding/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Graphic &#38; Web Designer</description>
+	<lastBuildDate>Tue, 22 Jun 2021 15:33:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/06/cropped-logo-32x32.png</url>
+	<title>Branding &#8211; Noreta Agus Sasono</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>S-Clean Laundry</title>
+		<link>/works/s-clean-laundry/</link>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2019 23:39:00 +0000</pubDate>
+				<category><![CDATA[Branding]]></category>
+		<guid isPermaLink="false">/?p=30</guid>
+
+					<description><![CDATA[Terletak di lantai LG Aston Hotel Madiun, S-Clean Laundry merupakan binatu dengan konsep industrial profesional. Saat ini manajemen dan operasional telah diambil alih oleh Aston Hotel Madiun. ]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p>Date : <strong>Dec 2019</strong> &nbsp;</p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p>Client : <a href="https://sasono.web.id/works/s-clean-laundry/#"><strong>S-Clean Laundry</strong></a></p>
+</div>
+</div>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img loading="lazy" width="1228" height="768" src="/wp-content/uploads/2021/06/s-clean-tagline.png" alt="" class="wp-image-32" srcset="/wp-content/uploads/2021/06/s-clean-tagline.png 1228w, /wp-content/uploads/2021/06/s-clean-tagline-300x188.png 300w, /wp-content/uploads/2021/06/s-clean-tagline-1024x640.png 1024w, /wp-content/uploads/2021/06/s-clean-tagline-768x480.png 768w, /wp-content/uploads/2021/06/s-clean-tagline-1080x675.png 1080w" sizes="(max-width: 1228px) 100vw, 1228px" /></figure>
+
+
+
+<figure class="wp-block-image alignwide size-large"><img src="/wp-content/uploads/2021/06/project-undone.png" alt=""/></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
