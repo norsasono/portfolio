@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Graphic &#38; Web Designer</description>
-	<lastBuildDate>Wed, 30 Jun 2021 16:07:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Dec 2021 17:37:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2021/06/cropped-logo-32x32.png</url>
@@ -28,6 +28,59 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Petjel Nyel</title>
+		<link>/works/petjel-nyel/</link>
+					<comments>/works/petjel-nyel/#respond</comments>
+		
+		<dc:creator><![CDATA[norsasono]]></dc:creator>
+		<pubDate>Thu, 23 Dec 2021 17:37:45 +0000</pubDate>
+				<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Logo]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Packaging]]></category>
+		<guid isPermaLink="false">/?p=104</guid>
+
+					<description><![CDATA[Petjel Nyel merupakan produk dari sebuah ide yang berawal dari keresahan hati warga Madiun asli atas pengalaman yang selama ini dirasakan ketika menikmati sambel pecel di kota-kota besar. "Pecel kok rasane kaya ngene?" "Pecel kok rasanya kayak gini?" ]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<p>Date : <strong>Dec 2021</strong></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<p>Client : <strong><a href="https://instagram.com/petjel.nyel" data-type="URL" data-id="https://instagram.com/petjel.nyel">Petjel Nyel</a></strong></p>
+</div>
+</div>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img loading="lazy" width="1400" height="840" src="/wp-content/uploads/2021/12/petjel-nyel-front.png" alt="" class="wp-image-105" srcset="/wp-content/uploads/2021/12/petjel-nyel-front.png 1400w, /wp-content/uploads/2021/12/petjel-nyel-front-768x461.png 768w, /wp-content/uploads/2021/12/petjel-nyel-front-1080x648.png 1080w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img loading="lazy" width="1400" height="840" src="/wp-content/uploads/2021/12/petjel-nyel-packaging.png" alt="" class="wp-image-110" srcset="/wp-content/uploads/2021/12/petjel-nyel-packaging.png 1400w, /wp-content/uploads/2021/12/petjel-nyel-packaging-768x461.png 768w, /wp-content/uploads/2021/12/petjel-nyel-packaging-1080x648.png 1080w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img loading="lazy" width="1400" height="1480" src="/wp-content/uploads/2021/12/petjel-nyel-photo.png" alt="" class="wp-image-111" srcset="/wp-content/uploads/2021/12/petjel-nyel-photo.png 1400w, /wp-content/uploads/2021/12/petjel-nyel-photo-768x812.png 768w, /wp-content/uploads/2021/12/petjel-nyel-photo-1080x1142.png 1080w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<figure class="wp-block-image alignwide size-full"><img loading="lazy" width="1400" height="840" src="/wp-content/uploads/2021/12/petjel-nyel-merch.png" alt="" class="wp-image-112" srcset="/wp-content/uploads/2021/12/petjel-nyel-merch.png 1400w, /wp-content/uploads/2021/12/petjel-nyel-merch-768x461.png 768w, /wp-content/uploads/2021/12/petjel-nyel-merch-1080x648.png 1080w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/works/petjel-nyel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>HTC Madiun</title>
 		<link>/works/htc-madiun/</link>
 		
