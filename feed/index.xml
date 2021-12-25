@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Graphic &#38; Web Designer</description>
-	<lastBuildDate>Thu, 23 Dec 2021 17:37:45 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Dec 2021 15:56:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Petjel Nyel</title>
 		<link>/works/petjel-nyel/</link>
-					<comments>/works/petjel-nyel/#respond</comments>
 		
 		<dc:creator><![CDATA[norsasono]]></dc:creator>
 		<pubDate>Thu, 23 Dec 2021 17:37:45 +0000</pubDate>
@@ -75,8 +74,6 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/works/petjel-nyel/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
