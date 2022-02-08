@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Graphic &#38; Web Designer</description>
-	<lastBuildDate>Sat, 01 Jan 2022 17:21:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Feb 2022 14:43:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.9</generator>
 
 <image>
 	<url>/wp-content/uploads/2021/06/cropped-logo-32x32.png</url>
@@ -55,7 +55,7 @@
 
 
 
-<figure class="wp-block-image alignwide size-full"><img loading="lazy" width="1400" height="840" src="/wp-content/uploads/2021/12/petjel-nyel-front.png" alt="" class="wp-image-105" srcset="/wp-content/uploads/2021/12/petjel-nyel-front.png 1400w, /wp-content/uploads/2021/12/petjel-nyel-front-768x461.png 768w, /wp-content/uploads/2021/12/petjel-nyel-front-1080x648.png 1080w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
+<figure class="wp-block-image alignwide size-full"><img width="1400" height="840" src="/wp-content/uploads/2021/12/petjel-nyel-front.png" alt="" class="wp-image-105" srcset="/wp-content/uploads/2021/12/petjel-nyel-front.png 1400w, /wp-content/uploads/2021/12/petjel-nyel-front-768x461.png 768w, /wp-content/uploads/2021/12/petjel-nyel-front-1080x648.png 1080w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-<p></p>
+<figure class="wp-block-image alignwide size-full"><img loading="lazy" width="1400" height="906" src="/wp-content/uploads/2022/02/petjel-nyel-sosmed.png" alt="" class="wp-image-118" srcset="/wp-content/uploads/2022/02/petjel-nyel-sosmed.png 1400w, /wp-content/uploads/2022/02/petjel-nyel-sosmed-768x497.png 768w, /wp-content/uploads/2022/02/petjel-nyel-sosmed-1080x699.png 1080w" sizes="(max-width: 1400px) 100vw, 1400px" /></figure>
 ]]></content:encoded>
 					
 		
